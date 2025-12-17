@@ -1,0 +1,104 @@
+{
+    "shelters": [
+        {
+            "id": "SH001",
+            "name": "Community Center Shelter",
+            "lat": 21.32,
+            "lon": 81.58,
+            "capacity": 500,
+            "facilities": ["Medical", "Food", "Water", "Bedding"],
+            "status": "Active",
+            "contact": "+91-XXXXXXXXXX"
+        },
+        {
+            "id": "SH002",
+            "name": "High School Emergency Center",
+            "lat": 21.28,
+            "lon": 81.63,
+            "capacity": 300,
+            "facilities": ["Food", "Water", "Bedding"],
+            "status": "Active",
+            "contact": "+91-XXXXXXXXXX"
+        },
+        {
+            "id": "SH003",
+            "name": "Sports Complex Shelter",
+            "lat": 21.35,
+            "lon": 81.65,
+            "capacity": 800,
+            "facilities": ["Medical", "Food", "Water", "Bedding", "Power Backup"],
+            "status": "Standby",
+            "contact": "+91-XXXXXXXXXX"
+        },
+        {
+            "id": "SH004",
+            "name": "College Campus Shelter",
+            "lat": 21.31,
+            "lon": 81.55,
+            "capacity": 600,
+            "facilities": ["Medical", "Food", "Water", "Bedding", "Internet"],
+            "status": "Active",
+            "contact": "+91-XXXXXXXXXX"
+        },
+        {
+            "id": "SH005",
+            "name": "Railway Station Relief Center",
+            "lat": 21.33,
+            "lon": 81.59,
+            "capacity": 400,
+            "facilities": ["Food", "Water", "Bedding", "Transport"],
+            "status": "Active",
+            "contact": "+91-XXXXXXXXXX"
+        },
+        {
+            "id": "SH006",
+            "name": "Temple Community Hall",
+            "lat": 21.29,
+            "lon": 81.57,
+            "capacity": 250,
+            "facilities": ["Food", "Water", "Bedding", "Power Backup"],
+            "status": "Active",
+            "contact": "+91-XXXXXXXXXX"
+        },
+        {
+            "id": "SH007",
+            "name": "Municipal Corporation Center",
+            "lat": 21.34,
+            "lon": 81.61,
+            "capacity": 700,
+            "facilities": ["Medical", "Food", "Water", "Bedding", "Internet", "Power Backup"],
+            "status": "Active",
+            "contact": "+91-XXXXXXXXXX"
+        },
+        {
+            "id": "SH008",
+            "name": "Industrial Area Shelter",
+            "lat": 21.30,
+            "lon": 81.64,
+            "capacity": 450,
+            "facilities": ["Medical", "Food", "Water", "Bedding", "Transport"],
+            "status": "Standby",
+            "contact": "+91-XXXXXXXXXX"
+        },
+        {
+            "id": "SH009",
+            "name": "University Campus Center",
+            "lat": 21.36,
+            "lon": 81.60,
+            "capacity": 900,
+            "facilities": ["Medical", "Food", "Water", "Bedding", "Internet", "Power Backup", "Transport"],
+            "status": "Active",
+            "contact": "+91-XXXXXXXXXX"
+        },
+        {
+            "id": "SH010",
+            "name": "District Hospital Annex",
+            "lat": 21.27,
+            "lon": 81.56,
+            "capacity": 350,
+            "facilities": ["Medical", "Food", "Water", "Bedding", "Power Backup", "Special Care"],
+            "status": "Active",
+            "contact": "+91-XXXXXXXXXX"
+        }
+    ]
+} 
