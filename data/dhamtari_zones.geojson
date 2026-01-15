@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "FZ001",
+        "name": "Nagari",
+        "severity": "Low",
+        "population": 160674,
+        "evacuation_status": "Safe"
+      },
+      "geometry": { "type": "Point", "coordinates": [81.35, 20.68] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "FZ002",
+        "name": "Sihawa",
+        "severity": "High",
+        "population": 9000,
+        "evacuation_status": "Urgent"
+      },
+      "geometry": { "type": "Point", "coordinates": [81.75, 20.60] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "FZ003",
+        "name": "Magarlod",
+        "severity": "High",
+        "population": 11000,
+        "evacuation_status": "In Progress"
+      },
+      "geometry": { "type": "Point", "coordinates": [81.65, 20.97] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "FZ004",
+        "name": "Kurud",
+        "severity": "Moderate",
+        "population": 296137,
+        "evacuation_status": "Monitoring"
+      },
+      "geometry": { "type": "Point", "coordinates": [81.72, 20.83] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zone_id": "FZ005",
+        "name": "Dhamtari",
+        "severity": "High",
+        "population": 15000,
+        "evacuation_status": "Urgent"
+      },
+      "geometry": { "type": "Point", "coordinates": [81.55, 20.71] }
+    }
+  ]
+} 

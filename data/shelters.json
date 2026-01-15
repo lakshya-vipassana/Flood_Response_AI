@@ -1,0 +1,50 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "S1",
+                "name": "Central Community Center",
+                "capacity": 1000,
+                "facilities": "Medical, Food, Water",
+                "phone": "555-0101",
+                "address": "123 Main St"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [81.53, 20.72]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "S2",
+                "name": "High School Gymnasium",
+                "capacity": 800,
+                "facilities": "Food, Water, Bedding",
+                "phone": "555-0102",
+                "address": "456 School Ave"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [81.57, 20.73]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "S3",
+                "name": "Sports Complex",
+                "capacity": 1200,
+                "facilities": "Medical, Food, Water, Bedding",
+                "phone": "555-0103",
+                "address": "789 Stadium Rd"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [81.62, 20.72]
+            }
+        }
+    ]
+}

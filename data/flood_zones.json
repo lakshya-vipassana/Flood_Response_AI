@@ -1,0 +1,54 @@
+{
+  "zones": [
+    {
+      "id": "FZ001",
+      "area": "Nagari",
+      "lat": 20.68,
+      "lon": 81.35,
+      "severity": "Low",
+      "water_level": 1.0,
+      "population_affected": 12000,
+      "evacuation_status": "Safe"
+    },
+    {
+      "id": "FZ002",
+      "area": "Sihawa",
+      "lat": 20.60,
+      "lon": 81.75,
+      "severity": "High",
+      "water_level": 3.8,
+      "population_affected": 9000,
+      "evacuation_status": "Urgent"
+    },
+    {
+      "id": "FZ003",
+      "area": "Magarlod",
+      "lat": 20.97,
+      "lon": 81.65,
+      "severity": "High",
+      "water_level": 3.5,
+      "population_affected": 11000,
+      "evacuation_status": "In Progress"
+    },
+    {
+      "id": "FZ004",
+      "area": "Kurud",
+      "lat": 20.83,
+      "lon": 81.72,
+      "severity": "Moderate",
+      "water_level": 2.2,
+      "population_affected": 10000,
+      "evacuation_status": "Monitoring"
+    },
+    {
+      "id": "FZ005",
+      "area": "Dhamtari",
+      "lat": 20.71,
+      "lon": 81.55,
+      "severity": "High",
+      "water_level": 4.0,
+      "population_affected": 15000,
+      "evacuation_status": "Urgent"
+    }
+  ]
+}

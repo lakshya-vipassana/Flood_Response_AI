@@ -1,0 +1,136 @@
+{
+    "zones": [
+        {
+            "id": "FZ001",
+            "area": "Kurud Central",
+            "lat": 21.33,
+            "lon": 81.52,
+            "severity": "High",
+            "water_level": 3.2,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 5000,
+            "evacuation_status": "In Progress"
+        },
+        {
+            "id": "FZ002",
+            "area": "Magarlod North",
+            "lat": 21.29,
+            "lon": 81.61,
+            "severity": "Moderate",
+            "water_level": 2.1,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 3200,
+            "evacuation_status": "Not Started"
+        },
+        {
+            "id": "FZ003",
+            "area": "Kurud East",
+            "lat": 21.34,
+            "lon": 81.54,
+            "severity": "High",
+            "water_level": 3.5,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 4500,
+            "evacuation_status": "In Progress"
+        },
+        {
+            "id": "FZ004",
+            "area": "Magarlod South",
+            "lat": 21.27,
+            "lon": 81.62,
+            "severity": "Low",
+            "water_level": 1.5,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 1800,
+            "evacuation_status": "Not Required"
+        },
+        {
+            "id": "FZ005",
+            "area": "Kurud West",
+            "lat": 21.32,
+            "lon": 81.50,
+            "severity": "Moderate",
+            "water_level": 2.3,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 2800,
+            "evacuation_status": "Planning"
+        },
+        {
+            "id": "FZ006",
+            "area": "Magarlod Central",
+            "lat": 21.28,
+            "lon": 81.59,
+            "severity": "High",
+            "water_level": 3.8,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 6000,
+            "evacuation_status": "In Progress"
+        },
+        {
+            "id": "FZ007",
+            "area": "Kurud North",
+            "lat": 21.35,
+            "lon": 81.53,
+            "severity": "Moderate",
+            "water_level": 2.5,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 3500,
+            "evacuation_status": "Planning"
+        },
+        {
+            "id": "FZ008",
+            "area": "Magarlod East",
+            "lat": 21.30,
+            "lon": 81.63,
+            "severity": "High",
+            "water_level": 3.3,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 4200,
+            "evacuation_status": "In Progress"
+        },
+        {
+            "id": "FZ009",
+            "area": "Industrial Zone",
+            "lat": 21.31,
+            "lon": 81.57,
+            "severity": "High",
+            "water_level": 3.6,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 2500,
+            "evacuation_status": "In Progress"
+        },
+        {
+            "id": "FZ010",
+            "area": "Railway Colony",
+            "lat": 21.33,
+            "lon": 81.58,
+            "severity": "Moderate",
+            "water_level": 2.4,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 1500,
+            "evacuation_status": "Planning"
+        },
+        {
+            "id": "FZ011",
+            "area": "University Area",
+            "lat": 21.36,
+            "lon": 81.60,
+            "severity": "Low",
+            "water_level": 1.8,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 3000,
+            "evacuation_status": "Not Required"
+        },
+        {
+            "id": "FZ012",
+            "area": "Hospital District",
+            "lat": 21.27,
+            "lon": 81.56,
+            "severity": "High",
+            "water_level": 3.4,
+            "last_updated": "2024-03-20T10:30:00Z",
+            "population_affected": 4800,
+            "evacuation_status": "In Progress"
+        }
+    ]
+} 

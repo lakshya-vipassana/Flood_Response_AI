@@ -1,0 +1,54 @@
+element,id,amenity,name,religion,addr_distr,addr_full,addr_postc,addr_state,addr_subdi,source,contact_ph,descriptio,name_hi,network,operator,public_tra,railway,ref,wikidata,name_ar,name_en,name_ja,name_ur,wikipedia,latitude,longitude,source_file
+node,6908100805,hospital,Dhamtari Christian Hospital,,Dhamtari,Dhamtari,493773,Chhattisgarh,,OpenGovernmentData,,,,,,,,,,,,,,,20.7185601,81.5515459,hospitals
+node,6953267917,hospital,Martin Hospital,,Dhamtari,"Martin Banglow, Dak Banglow Ward",493773,Chhattisgarh,,OpenGovernmentData,,,,,,,,,,,,,,,20.7076893,81.5414648,hospitals
+node,7148125216,hospital,Government hospital Nagri,,Dhamtari,Nagri,493778,Chhattisgarh,Nagri,OpenGovernmentData,,,,,,,,,,,,,,,20.350877,81.957065,hospitals
+node,7148125247,hospital,Civil Hospital Kurud,,Dhamtari,Kurud,493663,Chhattisgarh,Kurud,OpenGovernmentData,,Civil Hospital,,,,,,,,,,,,,20.8311136,81.7169756,hospitals
+node,7148125339,hospital,DH Dhamtari,,Dhamtari,"Civil Lines, Dak Banglaw Ward, Dhamtari",493773,Chhattisgarh,Dhamtari,OpenGovernmentData,0788-2621111,District Hospital,,,,,,,,,,,,,20.7077865,81.5396588,hospitals
+node,7288964635,hospital,Santosh hospital,,,"Dani Tola, Dhamtari",493776,Chhattisgarh,,OpenGovernmentData,,,,,,,,,,,,,,,20.6952232,81.5444069,hospitals
+node,7522069216,hospital,City Hospital,,Dhamtari,"Dhamtari Road, Housing Board Colony, Subhash Nagar, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7117484,81.5380336,hospitals
+node,7522069221,hospital,Dr. Mukesh Lunkad Nursing Home,,Dhamtari,Athwani Lane,493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7118074,81.5482104,hospitals
+node,7522069224,hospital,Rameshwaram Hospital,,Dhamtari,"Subhash Nagar, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7121253,81.5349258,hospitals
+node,7522069232,hospital,Dr. Niranjan Mahawar Hospital,,Dhamtari,"Baniya Para, Itwari Bazar, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7048575,81.5502698,hospitals
+node,7522069234,hospital,Mithali Hospital,,Dhamtari,"Dayanand Nagar, Achhota Wala, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7290388,81.5571621,hospitals
+node,7522069243,hospital,Bal Krishna Hospital,,Dhamtari,"Industrial Area, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7196811,81.5492608,hospitals
+node,7522069246,hospital,Dr. Gangwani,,Dhamtari,"Maratha Para, Itwari Bazar, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.6987372,81.5487378,hospitals
+node,7522069249,hospital,Gupta Hospital,,Dhamtari,"Ratna Bandha Road, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7107405,81.5390552,hospitals
+node,7522069252,hospital,Sarwani Devi Mittal Memorial Hospital,,Dhamtari,"NH30, Industrial Area, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7201531,81.5512057,hospitals
+node,7522069258,hospital,Dhamtari Hospital,,Dhamtari,"Itwari Bazar, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.701153,81.5376722,hospitals
+node,7522069261,hospital,Manmohan Vaishno Hospital,,Dhamtari,"Industrial Area, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7201515,81.548017,hospitals
+node,7522069264,hospital,Sahu Hospital,,Dhamtari,"Achhota Wala, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7239111,81.5527074,hospitals
+node,7522069273,hospital,Dharmarth Hospital,,Dhamtari,"Gandhi Ward, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.6890597,81.5540511,hospitals
+node,7522069275,hospital,Dr.Iqbal Pervez Orthopaedics Hospital,,Dhamtari,Old Bus Stand,493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7100111,81.5474168,hospitals
+node,7522069277,hospital,Fracture Trauma Hospital,,Dhamtari,"Balaji Colony, Dhamtari, Behind New Bus Stand",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7085686,81.546236,hospitals
+node,7522069281,hospital,Santosh Hospital,,Dhamtari,"Brahmanpara, Tikrapara, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7015965,81.554329,hospitals
+node,7522069283,hospital,Sri Badyanath Ayurvedic Dawakhana,,Dhamtari,"Industrial Area, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7215943,81.5538075,hospitals
+node,6908100805,hospital,Dhamtari Christian Hospital,,Dhamtari,Dhamtari,493773,Chhattisgarh,,OpenGovernmentData,,,,,,,,,,,,,,,20.7185601,81.5515459,hospitals_dhamtari
+node,6953267917,hospital,Martin Hospital,,Dhamtari,"Martin Banglow, Dak Banglow Ward",493773,Chhattisgarh,,OpenGovernmentData,,,,,,,,,,,,,,,20.7076893,81.5414648,hospitals_dhamtari
+node,7148125216,hospital,Government hospital Nagri,,Dhamtari,Nagri,493778,Chhattisgarh,Nagri,OpenGovernmentData,,,,,,,,,,,,,,,20.350877,81.957065,hospitals_dhamtari
+node,7148125247,hospital,Civil Hospital Kurud,,Dhamtari,Kurud,493663,Chhattisgarh,Kurud,OpenGovernmentData,,Civil Hospital,,,,,,,,,,,,,20.8311136,81.7169756,hospitals_dhamtari
+node,7148125339,hospital,DH Dhamtari,,Dhamtari,"Civil Lines, Dak Banglaw Ward, Dhamtari",493773,Chhattisgarh,Dhamtari,OpenGovernmentData,0788-2621111,District Hospital,,,,,,,,,,,,,20.7077865,81.5396588,hospitals_dhamtari
+node,7288964635,hospital,Santosh hospital,,,"Dani Tola, Dhamtari",493776,Chhattisgarh,,OpenGovernmentData,,,,,,,,,,,,,,,20.6952232,81.5444069,hospitals_dhamtari
+node,7522069216,hospital,City Hospital,,Dhamtari,"Dhamtari Road, Housing Board Colony, Subhash Nagar, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7117484,81.5380336,hospitals_dhamtari
+node,7522069221,hospital,Dr. Mukesh Lunkad Nursing Home,,Dhamtari,Athwani Lane,493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7118074,81.5482104,hospitals_dhamtari
+node,7522069224,hospital,Rameshwaram Hospital,,Dhamtari,"Subhash Nagar, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7121253,81.5349258,hospitals_dhamtari
+node,7522069232,hospital,Dr. Niranjan Mahawar Hospital,,Dhamtari,"Baniya Para, Itwari Bazar, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7048575,81.5502698,hospitals_dhamtari
+node,7522069234,hospital,Mithali Hospital,,Dhamtari,"Dayanand Nagar, Achhota Wala, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7290388,81.5571621,hospitals_dhamtari
+node,7522069243,hospital,Bal Krishna Hospital,,Dhamtari,"Industrial Area, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7196811,81.5492608,hospitals_dhamtari
+node,7522069246,hospital,Dr. Gangwani,,Dhamtari,"Maratha Para, Itwari Bazar, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.6987372,81.5487378,hospitals_dhamtari
+node,7522069249,hospital,Gupta Hospital,,Dhamtari,"Ratna Bandha Road, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7107405,81.5390552,hospitals_dhamtari
+node,7522069252,hospital,Sarwani Devi Mittal Memorial Hospital,,Dhamtari,"NH30, Industrial Area, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7201531,81.5512057,hospitals_dhamtari
+node,7522069258,hospital,Dhamtari Hospital,,Dhamtari,"Itwari Bazar, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.701153,81.5376722,hospitals_dhamtari
+node,7522069261,hospital,Manmohan Vaishno Hospital,,Dhamtari,"Industrial Area, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7201515,81.548017,hospitals_dhamtari
+node,7522069264,hospital,Sahu Hospital,,Dhamtari,"Achhota Wala, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7239111,81.5527074,hospitals_dhamtari
+node,7522069273,hospital,Dharmarth Hospital,,Dhamtari,"Gandhi Ward, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.6890597,81.5540511,hospitals_dhamtari
+node,7522069275,hospital,Dr.Iqbal Pervez Orthopaedics Hospital,,Dhamtari,Old Bus Stand,493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7100111,81.5474168,hospitals_dhamtari
+node,7522069277,hospital,Fracture Trauma Hospital,,Dhamtari,"Balaji Colony, Dhamtari, Behind New Bus Stand",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7085686,81.546236,hospitals_dhamtari
+node,7522069281,hospital,Santosh Hospital,,Dhamtari,"Brahmanpara, Tikrapara, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7015965,81.554329,hospitals_dhamtari
+node,7522069283,hospital,Sri Badyanath Ayurvedic Dawakhana,,Dhamtari,"Industrial Area, Dhamtari",493773,Chhattisgarh,,Local Knowledge,,,,,,,,,,,,,,,20.7215943,81.5538075,hospitals_dhamtari
+node,7840873780,,Chataud,,,,,,,,,,चटौद,IR,SECR,station,station,CATD,Q63356029,,,,,,20.9905615,81.7316803,railway_stations
+node,7840906584,,Sirry,,,,,,,,,,सिर्री,IR,SECR,station,station,SIY,Q63360790,,,,,,20.9496044,81.7225528,railway_stations
+node,7841078826,,Dhamtari,,,,,,,,,,धमतरी,IR,SECR,station,station,DTR,Q29026266,دامتري,Dhamtari,ダムタリー,دھمتری,en:Dhamtari railway station,20.7151908,81.5510027,railway_stations
+node,7841080697,,Sarsonpuri,,,,,,,,,,सरसोंपुरी,IR,SECR,station,station,SPY,Q63360894,,,,,,20.7811554,81.6386868,railway_stations
+node,7841080896,,Kurud,,,,,,,,,,कुरुद,IR,SECR,station,station,KRX,Q63356549,,,,,,20.8496568,81.7006485,railway_stations
+node,2921563173,place_of_worship,danteshwari mata mandir,hindu,,,,,,,,,,,,,,,,,,,,,20.3240065,81.8690707,temples
+node,5549633171,place_of_worship,Sankat Mochan Hanuman Mandir,hindu,,,,,,,,,,,,,,,,,,,,,20.7100649,81.5483025,temples
